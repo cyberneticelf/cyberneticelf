@@ -7,7 +7,7 @@ IT administrator based in Copenhagen, covering everything from identity and secu
 - **Collaboration & messaging**: Exchange Online, SharePoint, Teams
 - **Automation**: PowerShell, Microsoft Graph
 - **Reporting**: Power BI (built an embedded signage platform using Azure 
-  Functions + service principal auth)
+  Functions)
 
 ## Currently studying
 🎯 **SC-300** (Identity and Access Administrator) — exam booked for August 2026
