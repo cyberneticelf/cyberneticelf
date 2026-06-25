@@ -1,8 +1,6 @@
 ### Hi, I'm Simon 👋
 
-IT administrator based in Copenhagen, working solo across ~100 users in a 
-Microsoft 365 environment. Currently leveling up toward identity and cloud 
-security specialization.
+IT administrator based in Copenhagen, covering everything from identity and security to day-to-day infrastructure in a Microsoft 365 environment. Currently leveling up toward identity and cloud security specialization.
 
 ## What I work with day-to-day
 - **Identity & access**: Entra ID, Conditional Access, Intune, Autopilot
