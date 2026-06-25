@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Simon 👋
 
-<!--
-**cyberneticelf/cyberneticelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT administrator based in Copenhagen, working solo across ~100 users in a 
+Microsoft 365 environment. Currently leveling up toward identity and cloud 
+security specialization.
 
-Here are some ideas to get you started:
+## What I work with day-to-day
+- **Identity & access**: Entra ID, Conditional Access, Intune, Autopilot
+- **Collaboration & messaging**: Exchange Online, SharePoint, Teams
+- **Automation**: PowerShell, Microsoft Graph
+- **Reporting**: Power BI (built an embedded signage platform using Azure 
+  Functions + service principal auth)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently studying
+🎯 **SC-300** (Identity and Access Administrator) — exam booked for August 2026
+✅ **SC-900** (Security, Compliance, and Identity Fundamentals) — completed
+
+## Outside of work
+I also tinker with self-hosted infrastructure for fun — see my pinned 
+**Homelab** repo for what that's turned into.
+
+
