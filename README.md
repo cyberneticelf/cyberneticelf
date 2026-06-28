@@ -57,6 +57,18 @@ IT administrator based in Copenhagen, covering everything from identity and secu
 
 ---
 
+## 🎮 Side Project — Tenant Zero
+
+A darkly funny browser game about surviving a day as an IT administrator. Made for fun after hours.
+
+[![Tenant Zero](https://raw.githubusercontent.com/cyberneticelf/it_administration_game/main/screenshot.png)](https://cyberneticelf.github.io/it_administration_game/)
+
+> *Manage tickets, slam the door on users, avoid a security breach. Ten shifts. No good options.*
+
+**[▶ Play in browser](https://cyberneticelf.github.io/it_administration_game/)** &nbsp;·&nbsp; [Source](https://github.com/cyberneticelf/it_administration_game)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
