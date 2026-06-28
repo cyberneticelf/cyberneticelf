@@ -83,6 +83,6 @@ A darkly funny browser game about surviving a day as an IT administrator. Made f
 
 <div align="center">
 
-📍 Copenhagen, Denmark &nbsp;·&nbsp; 💼 
+📍 Copenhagen, Denmark &nbsp;·&nbsp; 
 
 </div>
