@@ -4,7 +4,7 @@
 
 **IT Administrator · Copenhagen, Denmark**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Identity+%26+Cloud+Security+Engineer;Microsoft+365+%7C+Entra+ID+%7C+Intune;PowerShell+%7C+Graph+API+%7C+Azure;Homelab+Tinkerer+%F0%9F%A7%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=IT+Administrator;Microsoft+365+%7C+Entra+ID+%7C+Intune;PowerShell+%7C+Graph+API+%7C+Azure;Homelab+Tinkerer+%F0%9F%A7%AA)](https://git.io/typing-svg)
 
 </div>
 
