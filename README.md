@@ -12,7 +12,7 @@
 
 ## About Me
 
-IT administrator based in Copenhagen, covering everything from identity and security to day-to-day infrastructure in a Microsoft 365 environment. Currently levelling up toward **identity and cloud security specialization**.
+IT administrator based in Copenhagen, covering everything from identity and security to day-to-day infrastructure in a Microsoft 365 environment. Currently levelling up toward **identity and cloud security specialization**. 4 years of hands-on experience in IT, and a formerly and recovering humanities academic.
 
 ---
 
