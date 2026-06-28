@@ -1,13 +1,12 @@
 <div align="center">
-<table><tr>
+<table border="0"><tr>
+<td valign="top"><img src="matrix-rain.svg" width="80" height="220" alt=""/></td>
 <td align="center" valign="middle">
 <h1>Hey, I'm Simon 👋</h1>
 <strong>IT Administrator · Copenhagen, Denmark</strong><br/><br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=IT+Administrator;Microsoft+365+%7C+Entra+ID+%7C+Intune;PowerShell+%7C+Graph+API+%7C+Azure;Homelab+Tinkerer+%F0%9F%A7%AA" alt="Typing SVG"/></a>
 </td>
-<td valign="top">
-<img src="matrix-rain.svg" width="120" height="220" alt=""/>
-</td>
+<td valign="top"><img src="matrix-rain.svg" width="80" height="220" alt=""/></td>
 </tr></table>
 </div>
 
